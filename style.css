@@ -1,0 +1,16 @@
+p{
+    display: inline;
+}
+h1{
+    color: red;
+    font-family:sans-serif;
+    font-size: 50px;
+}
+h1, p{
+    border: 1px solid yellow;
+}
+div{
+    border-width: 1px;
+    border-style: dashed;
+    border: blue;
+}
